@@ -8,7 +8,7 @@ export default ({ data }) => {
     <Layout>
       <SiteMetadata
         title="Covid Resources for all States and Union Territories of India"
-        description="There is a continuing rise in the number of patients affected by Coronavirus in India. the second wave of coronavirus is absolutely devastating and the only way to battle is to share the resources.<br><b> United we stand, Divided we fall </b><br> This website is an effort towards bringing all the resources available for figting CoVid in all States and Union Territories of India "
+        description="There is a continuing rise in the number of patients affected by Coronavirus in India. This website is an effort towards bringing all the resources available for figting CoVid in all States and Union Territories of India"
         image={data.hero.url}
       />
 
@@ -16,7 +16,7 @@ export default ({ data }) => {
         image={data.hero}
         tag="#StaySafe"
         title="Covid Resources"
-        description="There is a continuing rise in the number of patients affected by Coronavirus in India. the second wave of coronavirus is absolutely devastating and the only way to battle is to share the resources.<br><b> United we stand, Divided we fall </b><br> This website is an effort towards bringing all the resources available for figting CoVid in all States and Union Territories of India."
+        description="There is a continuing rise in the number of patients affected by Coronavirus in India. This website is an effort towards bringing all the resources available for figting CoVid in all States and Union Territories of India."
       />
 
       <Cards nodes={data.items.nodes} />
