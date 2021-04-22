@@ -30,7 +30,6 @@ export const Card = (props) => {
           <p className="text-base text-blue-900 dark:text-blue-400 mb-5 font-medium">
             {summary}
           </p>
-          <Feature label="Country" value={country} />
         </div>
       </Link>
     </div>

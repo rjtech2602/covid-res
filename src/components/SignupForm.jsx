@@ -9,8 +9,8 @@ export const SignupForm = () => {
             Sign up for our newsletter
           </h3>
           <p className="text-blue-800 dark:text-blue-500 font-medium text-base lg:text-lg pb-4 lg:pb-0 pt-1">
-            Every 2 weeks we'll send you a list of a popular and new
-            destinations.
+            Every 2 weeks we'll send you updates on the resources available and
+            the nationawide progress on facing CoVid.
           </p>
         </div>
         <div className="flex w-full md:w-1/2 lg:w-auto">
